@@ -49,3 +49,34 @@ We're going over the course what its about and what is required.
 ## 2. ProShop Project Demo
 
 
+
+What we'll be building
+
+we're building this from absolute scratch
+
+we' going to deploy it to Heroku
+
+Redux Dev tools
+
+
+
+If you don't understand we'll get to redux later
+
+on the home page we have our navbar
+
+we can search products
+- a link to our shopping cart
+- signin and register page
+
+
+- latest products page
+
+### pagination
+six in total, if there are more than 10 we show our pagination links at the bottom
+
+You can see in our state how we get the products
+
+we also get the number of pages which is one and the page, which is one
+
+So if pages is more than one ti'll show the links down here to got to the next page.
+
